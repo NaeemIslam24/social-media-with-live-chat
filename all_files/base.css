@@ -1,0 +1,20 @@
+head {
+  font-family: "sogeo UI";
+  font-weight: 300;
+}
+body {
+  font-family: "sogeo UI";
+  font-weight: 300;
+  background-color: #f2f2f2;
+}
+
+footer {
+  font-family: "sogeo UI";
+  font-weight: 300;
+}
+:root {
+  --main-background-color: #f2f2f2;
+  --dark-background-color: #a2a2a2;
+  --secondary-text/css-color: #808080;
+  --light-primary-text-color: #0080ff;
+}
